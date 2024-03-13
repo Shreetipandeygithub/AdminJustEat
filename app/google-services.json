@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "37166049520",
+    "project_id": "just-eat-85012",
+    "storage_bucket": "just-eat-85012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37166049520:android:8a691413817c69bd1c7a35",
+        "android_client_info": {
+          "package_name": "com.shreeti.adminjusteat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyozjKO2mR1OtMGoxF2FDy5szJgrEe9ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
+
